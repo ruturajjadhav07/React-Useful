@@ -1,0 +1,14 @@
+.main-body{
+text-align: center;
+
+}
+
+.countDisplay{
+  font-size: 4em;
+}
+
+.btn{
+  margin: 4px;
+  font-size: 2em;
+  border-radius: 5px;
+}

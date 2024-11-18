@@ -1,0 +1,64 @@
+body{
+    background-color: bisque;
+}
+
+.to-do-list {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+button {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.addBtn {
+  background-color: skyblue;
+}
+
+.delete-btn {
+  background-color: red;
+}
+
+.up-btn {
+  background-color: green;
+}
+
+.down-btn {
+  background-color: chocolate;
+}
+
+input[type="text"] {
+  font-size: 1rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+ol {
+  padding: 0;
+}
+
+li {
+  font-size: 1.3em;
+  font-weight: bold;
+  padding: 10px;
+  background-color: antiquewhite;
+  margin-bottom: 10px;
+  border: 3px solid black;
+  display: flex;
+  align-items: center;
+}
+
+.text{
+    flex:1;
+}
